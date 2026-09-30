@@ -48,10 +48,12 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**lab-mininet-docker-networking**](https://github.com/Heitormeira/lab-mininet-docker-networking) | Laboratório de topologia híbrida combinando Mininet e contêineres Docker | Python · Mininet · Docker |
-| [**wireshark-traffic-analysis**](https://github.com/Heitormeira/wireshark-traffic-analysis) | Captura e análise de tráfego de rede com casos práticos | Python · Wireshark |
-| [**estruturas-de-dados**](https://github.com/Heitormeira/estrututra-de-dados) | Implementações de estruturas de dados da graduação | C |
-| [**programacao-estruturada**](https://github.com/Heitormeira/programacaoestruturada) | Exercícios e projetos de programação estruturada | C |
+| [**lab-mininet-docker-networking**](https://github.com/Heitormeira/lab-mininet-docker-networking) | Rede corporativa simulada com 3 switches e 3 segmentos no Mininet, mais serviços em contêineres Docker | Python · Mininet · Docker |
+| [**wireshark-traffic-analysis**](https://github.com/Heitormeira/wireshark-traffic-analysis) | Captura guiada com tcpdump e relatório automático de arquivos .pcap com Scapy | Python · Scapy · Bash |
+| [**Gestão de Sócios CNC**](https://github.com/joaodafontequeiroz/gestao-socios-cnc) | Sistema de gestão de sócios com POO, threads e persistência por serialização (projeto em equipe) | Java |
+| [**HashGuard**](https://github.com/joaodafontequeiroz/projeto-Tabela-Hash-estrutura-de-dados-) | Tabela hash com sondagem linear para cadastro e autenticação de usuários (projeto em equipe) | C |
+| [**programacaoestruturada**](https://github.com/Heitormeira/programacaoestruturada) | Exercícios de registros, strings, vetores e arquivos binários | C |
+| [**ProgramacaoWebMobile**](https://github.com/Heitormeira/ProgramacaoWebMobile) | Portfólio pessoal em Next.js | React · Next.js |
 
 ---
 
