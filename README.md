@@ -14,7 +14,7 @@
 ### Sobre mim
 
 - Cursando **Ciência da Computação na UNICAP** (6º período, conclusão prevista em 2028)
-- **Estagiário de REDES na UM TELECOM*: suporte a sistemas, tratamento de dados, Excel e Power BI
+- **Estagiário de Redes na UM TELECOM:** suporte técnico e atendimento a clientes, manutenção de rede e cabeamento, apoio a servidores, monitoramento de redes, configuração de Wi-Fi (SOHO) e registro de chamados.
 - Foco em **Redes e Infraestrutura**: routing, switching, VLAN, subnetting, ACL e QoS
 - Morei e trabalhei na Austrália em 2024 · **inglês avançado**
 - 
