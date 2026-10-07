@@ -14,10 +14,10 @@
 ### Sobre mim
 
 - Cursando **Ciência da Computação na UNICAP** (6º período, conclusão prevista em 2028)
-- **Estagiário de TI no SINDHOSPE**: suporte a sistemas, tratamento de dados, Excel e Power BI
+- **Estagiário de REDES na UM TELECOM*: suporte a sistemas, tratamento de dados, Excel e Power BI
 - Foco em **Redes e Infraestrutura**: routing, switching, VLAN, subnetting, ACL e QoS
 - Morei e trabalhei na Austrália em 2024 · **inglês avançado**
-- **Buscando estágio em Redes, Infraestrutura ou TI**
+- 
 
 ---
 
