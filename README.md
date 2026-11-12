@@ -23,7 +23,9 @@
 
 ### Objetivo
 
-Estágio em **redes de computadores** — atuação presencial em Recife/PE, em operação de rede, NOC, suporte a infraestrutura ou telecom.
+Busco **estágio em redes de computadores** — atuação presencial em Recife/PE, em operação de rede, NOC, suporte a infraestrutura ou telecom.
+
+Meu objetivo principal é **conquistar a certificação Cisco CCNA 200-301** e evoluir para posições de operação e infraestrutura de redes.
 
 ---
 
