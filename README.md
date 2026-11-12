@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-- Cursando **Ciência da Computação na UNICAP** (6º período, ingresso em 2024.2 · conclusão prevista em 2028.2)
+- Cursando **Ciência da Computação na UNICAP** (5º período, ingresso em 2024.2 · conclusão prevista em 2028.2)
 - **Estagiário de Redes na UM TELECOM** (em andamento, desde outubro de 2026) — provedor de internet: suporte técnico e atendimento a clientes, manutenção de rede e cabeamento, apoio a servidores, monitoramento de redes com Zabbix, configuração de Wi-Fi (SOHO) e registro de chamados
 - Atuação prática com **MikroTik RouterOS (WinBox)**, **Zabbix** para monitoramento e **MobaXterm** para acesso a equipamentos via SSH/serial
 - Foco em **Redes e Infraestrutura**: routing, switching, VLAN, subnetting, ACL e QoS
