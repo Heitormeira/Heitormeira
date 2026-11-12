@@ -81,7 +81,6 @@ Meu objetivo principal é **conquistar a certificação Cisco CCNA 200-301** e e
 
 | Projeto | O que foi feito | Stack |
 |---|---|---|
-| [**programacao-estruturada**](https://github.com/Heitormeira/programacaoestruturada) | Exercícios de `struct`, vetores, strings, ponteiros e persistência em arquivos binários | C |
 | [**Gestão de Sócios CNC**](https://github.com/joaodafontequeiroz/gestao-socios-cnc) | Sistema de gestão de sócios com POO, threads e serialização (em equipe) | Java |
 | [**HashGuard**](https://github.com/joaodafontequeiroz/projeto-Tabela-Hash-estrutura-de-dados-) | Tabela hash com sondagem linear para cadastro e autenticação (em equipe) | C |
 
