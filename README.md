@@ -76,7 +76,7 @@ Meu objetivo principal é **conquistar a certificação Cisco CCNA 200-301** e e
 | Projeto | O que foi feito | Stack |
 |---|---|---|
 | [**sindhospe-frontend**](https://github.com/Heitormeira/sindhospe-frontend) · [**backend**](https://github.com/Heitormeira/sindhospe-backend) · [**demo**](https://sindhospe-frontend.vercel.app) | Portal SINDHOSPE (Projeto Integrador UNICAP + sindicato): cada associado vê indicadores de leitos, serviços e habilitações do seu estabelecimento, comparados com município e estado, a partir de dados reais do CNES/DATASUS. API publicada no Render e front na Vercel | Next.js · Node/Express · Firebase |
-| [**portfolio-heitormeira**](https://github.com/Heitormeira/portfolio-heitormeira) | Portfólio pessoal em Next.js e React, com páginas de projetos e currículo | React · Next.js |
+| [**portfolio-heitormeira**](https://github.com/Heitormeira/portfolio-heitormeira) · [**site**](https://portfolio-heitormeira.vercel.app) | Portfólio pessoal em Next.js e React: experiência na equipe N2 · CMC, currículo imprimível e projetos | React · Next.js |
 
 ### Projetos acadêmicos
 
