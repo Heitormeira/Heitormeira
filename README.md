@@ -14,8 +14,9 @@
 ### Sobre mim
 
 - Cursando **Ciência da Computação na UNICAP** (5º período, ingresso em 2024.2 · conclusão prevista em 2028.2)
-- **Estagiário de Redes na UM TELECOM** (em andamento, desde outubro de 2026) — provedor de internet: suporte técnico e atendimento a clientes, manutenção de rede e cabeamento, apoio a servidores, monitoramento de redes com Zabbix, configuração de Wi-Fi (SOHO) e registro de chamados
-- Atuação prática com **MikroTik RouterOS (WinBox)**, **Zabbix** para monitoramento e **MobaXterm** para acesso a equipamentos via SSH/serial
+- **Estagiário de Redes na UM TELECOM — equipe N2 · CMC** (Configuração e Manutenção de Clientes, desde outubro de 2026) — provedor de internet: provisionamento e configuração de clientes e serviços de telecom, ativações, bloqueios e cancelamentos, upgrades e downgrades de banda com análise de viabilidade técnica, migrações e adequações de infraestrutura, correção de inconsistências de configuração e documentação técnica dos clientes
+- Atuação prática com equipamentos **MikroTik**, **Datacom**, **Huawei** e **Juniper**: VLANs, portas e interfaces de switches, endereçamento IP de gerência e validação de alterações em ambiente de produção
+- Monitoramento com **Zabbix** e acesso a equipamentos com **MobaXterm** (SSH/serial)
 - Foco em **Redes e Infraestrutura**: routing, switching, VLAN, subnetting, ACL e QoS
 - Morei e trabalhei na Austrália em 2024 · **inglês avançado**
 
@@ -107,4 +108,4 @@ Meu objetivo principal é **conquistar a certificação Cisco CCNA 200-301** e e
 
 ---
 
-<p align="center"><i>English: Computer Science student at UNICAP (Recife, Brazil) focused on networking, telecom and IT infrastructure. Hands-on experience as a network intern at an ISP — MikroTik RouterOS (WinBox), Zabbix monitoring, cabling and customer support — plus labs with Mininet, Docker, tcpdump/Scapy and Packet Tracer. Preparing for the Cisco CCNA 200-301. Open to on-site internship opportunities in computer networking in Recife, Brazil.</i></p>
+<p align="center"><i>English: Computer Science student at UNICAP (Recife, Brazil) focused on networking, telecom and IT infrastructure. Hands-on experience as a network intern at an ISP on the N2 · CMC team (customer provisioning and configuration) — MikroTik, Datacom, Huawei and Juniper equipment, VLANs and management IPs, bandwidth upgrades, Zabbix monitoring — plus labs with Mininet, Docker, tcpdump/Scapy and Packet Tracer. Preparing for the Cisco CCNA 200-301. Open to on-site internship opportunities in computer networking in Recife, Brazil.</i></p>
